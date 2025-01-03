@@ -23,7 +23,8 @@ dependencies = [
     "umap-learn",
     "tenacity",
     "statsmodels",
-    "automated-interpretability"
+    "automated-interpretability",
+    "datasets>=3.2.0",
 ]
 
 [project.urls]
